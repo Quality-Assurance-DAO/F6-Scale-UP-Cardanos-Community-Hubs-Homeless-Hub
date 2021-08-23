@@ -5,3 +5,5 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub)](https://github.com/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub)](https://github.com/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub?style=flat-square)](https://github.com/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub)
+
+This proposal will initiate a 6-month experiment in communication and understanding between existing Cardano community members and homeless communities in Manchester.
