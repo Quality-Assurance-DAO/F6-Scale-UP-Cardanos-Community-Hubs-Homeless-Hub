@@ -48,11 +48,11 @@ This hub will have its roots in the homeless community, but might also engage ot
 - Facilitator: initial liaison with grassroots homeless orgs; 5 days' work over a 2-month period at start of project (end October 2021 to December 2021).
 -$ 1375
 
--Facilitator: direct work with participants, plus session planning, monitoring/evaluation, and ongoing project development, early January 2022 to end April 2022
--$ 7000
+- Facilitator: direct work with participants, plus session planning, monitoring/evaluation, and ongoing project development, early January 2022 to end April 2022
+- $ 7000
 
--Participants' expenses - to recompense participants for giving us their expertise.
--$ 4000
+- Participants' expenses - to recompense participants for giving us their expertise.
+- $ 4000
 
 - Community interpreters' expenses
 - $ 2100
