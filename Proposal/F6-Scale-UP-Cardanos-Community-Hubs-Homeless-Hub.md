@@ -65,6 +65,24 @@ Stephen Whitenstall (@swhitenstall) has personal experience of homelessness, liv
 
 Vanessa Cardui (@CallyFromAuron) is a skilled facilitator and project manager, with 20 years' experience of participatory work with communities. She is inspired by her own lived experience of homelessness as a young woman; and has led a wide range of publicly-funded community engagement projects in the UK, working with homeless people, Gypsies and Travellers, refugees and asylum seekers, migrant communities, neurodivergent communities, and working-class urban communities, to explore issues such as heritage, sense of place, money and value, and access to public space and resources. A key focus of her practice is the idea of the Archive in marginalised communities – how those of us with experience of social exclusion make decisions on what we value, and preserve it for posterity. For example, see The National Archives Of The Republic Of The Homeless, a 2019 project with homeless and ex-homeless artists in Hull, England: https://homeless.omeka.net
 
+## How this proposal impacts the challenge metrics
+
+### How many new Hubs were launched in the next 6 months?
+
+Our proposal is going to set up one new hub.
+
+### How many new users of Cardano were onboarded?
+
+The project will directly reach 10 participants from the homeless community, who will be onboarded into Cardano. Additionally, the project will attract wider attention, and we aim to onboard 10 additional people, both from the local community where we are working, and among organisations and projects that engage homeless people in the UK.
+
+### What was the total reach of the Hub's initial marketing launch?
+
+Initially (October to December 2021) we will be recruiting homeless participants to work on creating the Hub. The actual marketing launch will happen in April 2022 via social media, live publicity materials distributed locally, word-of-mouth, and possibly a public event; we aim to reach c. 1,000 people with our marketing.
+
+### How many external organizations did this community-focused challenge bring into the Cardano ecosystem?
+
+The project will draw its participants from 3 organisations working with homeless people in Manchester, UK, so these organisations will therefore be aware of the Cardano ecosystem. During the course of the project, we aim to conduct outreach to 3 additional community organisations in the local area (such as tenants' groups, parents' groups, etc), and bring them into the Cardano ecosystem via social media engagement with our project, raised awareness of Cardano, and offering the opportunity to join Catalyst workshops and events such as Town Halls.
+
 ## Budget
 
 Facilitator: initial liaison with grassroots homeless orgs; 5 days' work over a 2-month period at start of project (end October 2021 to December 2021).
