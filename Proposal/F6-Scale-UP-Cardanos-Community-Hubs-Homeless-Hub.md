@@ -15,19 +15,15 @@ https://stephen-rowan.gitbook.io/homeless-hub/
 
 ## Detailed plan (not required) - Fill in here any additional details
 
-This proposal will initiate a 6-month experiment in communication and understanding between existing Cardano community members and homeless communities in Manchester, UK, which includes a mix of migrant people and UK-born people, and a wide range of levels of ability in English.
+### How we are addressing the challenge question
 
-We have included money for interpretation where needed, and plan to use and pay people from within the community itself as interpreters.
+This proposal will initiate a 6-month experiment in communication and understanding between existing Cardano community members, and homeless communities in Manchester, UK. 
 
-## Background
+Homeless people in the UK come from a diverse mix of social backgrounds, cultures, migration status and languages; but due to their homelessness, they form a distinct community, with a sub-culture of its own. Due to their lived experience of exclusion, poverty and marginalisation, and due to the fact that in order to survive they have to develop networks of mutual aid and support between themselves they often have a perspective on questions of value and contribution that is unique and vital. We believe this perspective could enrich the Cardano community; and in turn, Cardano could empower homeless people. By inviting homeless people to engage with Cardano from where they are, using the perspective of their own community and its culture, and by using facilitators who have their own lived experience of homelessness, we are addressing the challenge's key focus on enabling people to bring their own cultural understanding to Cardano. "Cultural understanding" is about more than the culture of a country or language – it can also be about shared experiences of exclusion.
 
-Homeless people in developed countries like the United Kingdom form a distinct community, with a culture of its own. This community is a diverse mix of people from different social backgrounds, cultures, migration status and languages.
+The people our project will reach are unlikely to have any blockchain expertise, although they may have some tech skills. So we are addressing the challenge question's focus on reaching people on the ground who do not already know about blockchain. And because the UK homeless community includes a mix of migrant people and UK-born people, and a wide range of levels of ability in English, our project also addresses the challenge's focus on engaging people in their own language. Our budget includes money for interpretation where needed, and we plan to use and pay people from within the community itself as interpreters.
 
-Due to our lived experience of exclusion, poverty and marginalisation, and due to the fact that, in order to survive, we have to develop networks of mutual aid and support between ourselves, homeless communities often have a perspective on questions of value and contribution that is unique and vital.
-
-This perspective could enrich the Cardano community; and in turn, Cardano could empower homeless people.
-
-The first step in empowering any community to change their lives is to create a space where people can develop and crystallise their OWN understanding of the problem. This might be called community "problem-sensing".
+The first step in empowering any community to change their lives is to create a space where people can develop and crystallise their OWN understanding of the problem. This might be called community "problem-sensing". By making space for this, our project addresses the challenge's focus on enabling everyone to participate to the best of their ability.
 
 ## Problem-Sensing Workshops
 
