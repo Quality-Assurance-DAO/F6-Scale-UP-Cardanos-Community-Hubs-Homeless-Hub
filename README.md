@@ -16,3 +16,6 @@ https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088
 
 ## Project Board
 https://github.com/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub/projects/1
+
+## GitBook
+https://stephen-rowan.gitbook.io/homeless-hub/
