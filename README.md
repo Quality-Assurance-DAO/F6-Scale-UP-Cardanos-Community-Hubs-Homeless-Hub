@@ -8,4 +8,10 @@
 
 This proposal will initiate a 6-month experiment in communication and understanding between existing Cardano community members and homeless communities in Manchester.
 
+## Proposal Text
+
 [Proposal text](Proposal/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub.md)
+
+## Ideascale
+
+https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088
